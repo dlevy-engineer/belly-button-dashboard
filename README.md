@@ -1,6 +1,8 @@
 # belly-button-dashboard
 An interactive dashboard to explore 'Belly Button Biodiversity' from the Rob Dunn Lab, which catalogs the microbes that colonize human navels.
 
+![Belly Button Dashboard](/images/belly_button_dashboard.png)
+
 ## Background
 In this project, we constructed a simple interactive dashboard to explore the [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/) from the Rob Dunn Lab, which catalogs the microbes that colonize human navels.
 
