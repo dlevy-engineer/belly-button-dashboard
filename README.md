@@ -31,4 +31,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 7. Update all the plots when a new sample is selected.
 
-8. Deploy app to: [https://dmldatasci.github.io/belly-button-challenge/](https://dmldatasci.github.io/belly-button-challenge/)
+8. Deploy app to: [https://dmldatasci.github.io/belly-button-dashboard/](https://dmldatasci.github.io/belly-button-dashboard/)
