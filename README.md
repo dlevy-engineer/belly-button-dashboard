@@ -1,5 +1,5 @@
-# belly-button-challenge
-Module 14 submission for UC Berkeley data science bootcamp.
+# belly-button-dashboard
+An interactive dashboard to explore 'Belly Button Biodiversity' from the Rob Dunn Lab, which catalogs the microbes that colonize human navels.
 
 ## Background
 In this project, we constructed a simple interactive dashboard to explore the [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/) from the Rob Dunn Lab, which catalogs the microbes that colonize human navels.
